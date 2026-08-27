@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  -webkit-size-adjust: 109%;
+  size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">NHHM@MM@@NMH;,;i+h.:i|++|i;:::,:::::;NNM</tspan>
+<tspan x="15" y="50">HhhhhHNM:;iN@i   ;.  &#x27;|hhh+||||i;:::,+M|</tspan>
+<tspan x="15" y="70">hh+hH||&#x27; ii|H@: `  ```&#x27;,iHH|;;;i||;::;|,</tspan>
+<tspan x="15" y="90">hhhH,,,  .ii;H: ```   &#x27;..,;i+|:,,:::::::</tspan>
+<tspan x="15" y="110">hHh.`i`   `.:|```  `.:ii:.` `ihi;:::::::</tspan>
+<tspan x="15" y="130">NH&#x27;&#x27;&#x27;:&#x27;     :.&#x27;``&#x27;;+++N@@@Mh;`,+|;,,,,::</tspan>
+<tspan x="15" y="150">N,`.&#x27;.::,.&#x27;:,.&#x27;&#x27;:;&#x27;.iii|++||hH|hH|ii|+;;</tspan>
+<tspan x="15" y="170">h`&#x27;&#x27;...:.,,..&#x27;.;,   `:iiiii;:&#x27;:@@MHHHN+:</tspan>
+<tspan x="15" y="190">|`&#x27;`hH,.&#x27;&#x27;....;&#x27;      `&#x27;&#x27;&#x27;`` `|HhNNHhhHN</tspan>
+<tspan x="15" y="210">+ `,@i`.,.&#x27;&#x27;&#x27;,:`            :+;+i:|HNH+|</tspan>
+<tspan x="15" y="230">h` i@|.  &#x27;.....,.&#x27;`       &#x27;;;`|+i:,:ihN+</tspan>
+<tspan x="15" y="250">H&#x27; |MMMHi&#x27;  `.,,,,,,,..&#x27;.,,&#x27; |+i::::,,::</tspan>
+<tspan x="15" y="270">N, |MNNM@MHi,`   `&#x27;&#x27;&#x27;:;...`&#x27;|+i;:::::::;</tspan>
+<tspan x="15" y="290">H| :MMMNHHNNMMH+;.&#x27;`.,.&#x27;&#x27;.;++i;::::::,iN</tspan>
+<tspan x="15" y="310">+H&#x27;`HHi;;:::;i+HM@H:&#x27;&#x27;.:i++|i::::::,;+MM</tspan>
+<tspan x="15" y="330">hH+ ,;::::::::::;:..:i+h+|i;:::::,;hNMNN</tspan>
+<tspan x="15" y="350">h+H: .;;;;;;;|hH+|++++|i;:,,,,::i+NMNNMM</tspan>
+<tspan x="15" y="370">hhhH. `&#x27;.,,.&#x27;`.iHMMMMMNh+||++hHNMMNNMMNh</tspan>
+<tspan x="15" y="390">hhhhh,`          &#x27;,i+hHM@MMMM@MMMMMMNH+h</tspan>
+<tspan x="15" y="410">h+hhhhh+||ii;;;;:,,.&#x27;iM@@MNNMNHHHHhhh++H</tspan>
+<tspan x="15" y="430">h++h+++h+hhHHhhH+ `&#x27;:H@@@MNMMNHhhhhhhhhN</tspan>
+<tspan x="15" y="450">h++++++|++hh++++N+HM@@@@N:.:hMMMMMNHhhhh</tspan>
+<tspan x="15" y="470">hh+hh+hhhhhhhHHhHNM@@@@@|&#x27;...|MHHhhh+hhh</tspan>
+<tspan x="15" y="490">+hhhh+hhHHHHHNNHh&#x27;`+@@@@|....&#x27;+NhhHHHHHH</tspan>
+</text>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">sealshy@amorim ————————————————————————————————————————</tspan>
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">macOS Tahoe · Apple M4</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">11 years, 1 month</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">Sealshy · QA</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Hannah + Schele · AIs</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................................. </tspan><tspan class="value">Cursor</tspan>
+<tspan x="390" y="150" class="cc">. </tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Python, JavaScript, TypeScript, Bash</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">HTML, CSS, JSON, YAML, SQL</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Portuguese, English</tspan>
+<tspan x="390" y="230" class="cc">. </tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Automation, Security, Agents</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">MacBook Air M4 · 16 GB</tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Now</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">QA · Automation + Security</tspan>
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Method</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Cloud Agents · Grok Bot</tspan>
+<tspan x="390" y="330">- Contact ——————————————————————————————————————</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">bielgabrielg22@gmail.com</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">sealshy</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">X</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">@eusealshy</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">@eusealshy</tspan>
+<tspan x="390" y="430">- GitHub Stats ——————————————————————————————————————</tspan>
+<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Stack</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Python · JS · APIs · Git</tspan>
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Private · Shipping</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Made-by</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Grok Bot · Hannah</tspan>
+<tspan x="390" y="510" class="cc">. </tspan>
+</text>
+</svg>
