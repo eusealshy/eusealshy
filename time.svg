@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="460px" height="214px">
+<rect x="0.5" y="0.5" width="459" height="213" fill="#0d1117" stroke="#30363d" rx="12"/>
+<text x="20" y="34" fill="#58a6ff" font-size="15" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">How I ship   (no IDE · no WakaTime)</text>
+<text x="20" y="62" fill="#c9d1d9" font-size="13" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">Cursor Cloud Agents</text>
+<text x="440" y="62" text-anchor="end" fill="#8b949e" font-size="12" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">100%</text>
+<rect x="20" y="72" width="420" height="8" rx="4" fill="#21262d"/>
+<rect x="20" y="72" width="386" height="8" rx="4" fill="#c9d1d9"/>
+<text x="20" y="102" fill="#c9d1d9" font-size="13" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">Linear briefs</text>
+<text x="440" y="102" text-anchor="end" fill="#8b949e" font-size="12" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">ops</text>
+<rect x="20" y="112" width="420" height="8" rx="4" fill="#21262d"/>
+<rect x="20" y="112" width="231" height="8" rx="4" fill="#c9d1d9"/>
+<text x="20" y="142" fill="#c9d1d9" font-size="13" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">GitHub private</text>
+<text x="440" y="142" text-anchor="end" fill="#8b949e" font-size="12" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">Hub</text>
+<rect x="20" y="152" width="420" height="8" rx="4" fill="#21262d"/>
+<rect x="20" y="152" width="168" height="8" rx="4" fill="#c9d1d9"/>
+<text x="20" y="182" fill="#c9d1d9" font-size="13" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">QA / break then ask why</text>
+<text x="440" y="182" text-anchor="end" fill="#8b949e" font-size="12" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">job</text>
+<rect x="20" y="192" width="420" height="8" rx="4" fill="#21262d"/>
+<rect x="20" y="192" width="294" height="8" rx="4" fill="#c9d1d9"/>
+</svg>

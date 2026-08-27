@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center">
+  <img src="./card.svg" alt="sealshy@gabriel" width="985" />
+</p>
 
-<!--
-**Sealshy-sol/Sealshy-sol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./time.svg" alt="How I ship" width="460" />
+  &nbsp;
+  <img src="./now.svg" alt="Now" width="460" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <sub>leigo curioso · programador aventureiro · analista de qualidade</sub><br/>
+  <sub>Sealshy · DomingoHub (source private)</sub>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<p align="center">
+  <img src="./footer.svg" alt="Made by: Grok Bot - Hannah" width="985" />
+</p>
