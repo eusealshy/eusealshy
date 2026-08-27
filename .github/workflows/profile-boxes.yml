@@ -8,12 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - uses: cli/gh-action@v2
-        with:
-          github-token: ${{ secrets.GH_PAT }}
       - name: refresh gists
         env:
           GH_TOKEN: ${{ secrets.GH_PAT }}
